@@ -100,7 +100,7 @@ const sliderContent = [
     const newSlideHTML = `
        <div class="slider-next">
          <div class="slider-next-img">
-           <img src="../img/${currentImageIndex}.jpg" alt="" />
+           <img src="/img/${currentImageIndex}.jpg" alt="" />
          </div>
        </div>
      `;
